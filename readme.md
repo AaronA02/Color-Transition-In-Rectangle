@@ -1,0 +1,1 @@
+Make a rectange such that when mouse is hovering towards the left of the rectangle, the color of the rectangle changes to red. While when mouse is hovering towards the right of the rectangle, the color of the rectangle changes to blue.
